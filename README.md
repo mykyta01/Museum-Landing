@@ -1,5 +1,6 @@
 # Namu-2022-design, landing page
-  Welcome to Namu-2022-design, where creativity meets innovation! Explore a world of cutting-edge design solutions that inspire and captivate. Our passion for design knows no bounds, and we're dedicated to pushing the boundaries of creativity. Whether you're seeking stunning visual aesthetics, user-friendly interfaces, or unique artistic expressions, Namu-2022-design has you covered. Join us on this creative journey and experience design like never before.
+  Welcome to the National Art Museum of Ukraine's captivating online home! Explore the world of art through our virtual gateway to creativity and culture. Get ready to immerse yourself in a vibrant tapestry of upcoming exhibits, a rich calendar of events, and the extraordinary talents of our featured artists.
+  Experience the National Art Museum of Ukraine online and get ready to embark on an artistic voyage like no other. Be part of a vibrant community of art enthusiasts and embrace the beauty and creativity that define our museum's legacy. Welcome to a world where art knows no bounds!
 
   - [DEMO LINK](https://mykyta01.github.io/Museum/)
 
